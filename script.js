@@ -5,6 +5,7 @@
 // @description  AtCoderの制約において、範囲定義ではない i を強調します
 // @author       asakuchi
 // @match        https://atcoder.jp/contests/*/tasks/*
+// @license      MIT
 // @grant        none
 // ==/UserScript==
 
